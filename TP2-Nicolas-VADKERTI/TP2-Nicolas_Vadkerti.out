@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Fonctionnement d\351sir\351}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{R\351seaux de collecte de donn\351es}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{D\351crire le protocole utilis\351 pour la collecte des donn\351es et indiquer les informations qui transitent.}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{ Ecrire un programme pour l\220ESP32 permettant de r\351pondre au fonctionnement demand\351. On pourra s\220inspirer du TP d\351j\340 r\351alis\351 permettant de mesurer la temp\351rature ambiante }{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Dans le but de se rapprocher le plus possible de la r\351alisation d\220un objet r\351el, faire une recherche sur internet pour identifier un thermom\350tre m\351dical pouvant s\220interfacer avec notre plateforme ESP32 et modifier votre programme pour utiliser ce nouveau capteur. }{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Proposer une fa\347on d\220organiser votre base de donn\351es pour enregistrer les donn\351es provenant d\220un grand nombre de plateformes ESP32}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Indication locale de la temp\351rature }{}% 8
+\BOOKMARK [1][-]{section.4}{Alerte d\220une \351quipe de soins en cas de n\351cessit\351}{}% 9
